@@ -13,7 +13,7 @@ You can try the app live here: [TodoManager Live](<your-live-link-here>)
 ![Home Page](/src/assets/home.png)
 ![Add Todo](/src/assets/addToDo.png)
 ![Edit Todo](/src/assets/editToDo.png)
-![Completed Todo](/src/assets/completedToDo.png)
+![Completed Todo](/src/assets/completedTodo.png)
 
 ## Features
 - Add new todos
