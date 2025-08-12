@@ -4,7 +4,7 @@
 A simple Todo Manager application built with React and Vite. This app allows users to add, view, and manage their todo items efficiently.
 
 ## Live Website
-You can try the app live here: [TodoManager Live](https://to-do-manager-with-react.onrender.com)
+You can try the web app live here: [TodoManager Live](https://to-do-manager-with-react.onrender.com)
 
 
 ## Screenshots
@@ -27,6 +27,10 @@ TodoManager/
 │   └── todoIcon.png
 ├── src/
 │   ├── App.jsx
+│   ├── assets/
+│   │   ├── addToDo.png
+│   │   ├── editToDo.png
+│   │   └── completedToDo.png
 │   ├── index.css
 │   ├── main.jsx
 │   ├── components/
